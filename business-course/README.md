@@ -11,10 +11,9 @@ Welcome to the Data Science Course Repository! This repository contains valuable
     - [Customer Personalization](#customer-personalization)
 3. [Getting Started](#getting-started)
 4. [Prerequisites](#prerequisites)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
@@ -44,14 +43,6 @@ Make sure you have the following prerequisites installed:
 
 - Python
 - Jupyter Notebook
-
-### Installation
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/data-science-course.git
-```
 
 ### Usage
 
